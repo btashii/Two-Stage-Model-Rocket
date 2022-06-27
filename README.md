@@ -18,5 +18,5 @@ Software:
 **User Interface (this would be paired along a terminal window)**
 ![twostagerocket](https://user-images.githubusercontent.com/66987198/175840764-3f92e4e6-60d1-4050-af6c-6e6edec02db5.jpg)
 
-**OpenRocket simulation
-**![UserTelemetryInterface](https://user-images.githubusercontent.com/66987198/175840769-7e431b2a-1ab0-437e-a5a1-977c319641a9.png)
+**OpenRocket Simulation**
+![UserTelemetryInterface](https://user-images.githubusercontent.com/66987198/175840769-7e431b2a-1ab0-437e-a5a1-977c319641a9.png)
