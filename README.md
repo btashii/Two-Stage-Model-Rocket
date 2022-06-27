@@ -14,3 +14,5 @@ Software:
 -Sensor data is fed through a python server to be sent to the software in the laptop, where the data is then displayed on a visual live graph using matplotlib.  
 -Simulation software "OpenRocket" was used to model trajectory path.  
 -Altitude: 1,200 feet high. 
+![twostagerocket](https://user-images.githubusercontent.com/66987198/175840764-3f92e4e6-60d1-4050-af6c-6e6edec02db5.jpg)
+![UserTelemetryInterface](https://user-images.githubusercontent.com/66987198/175840769-7e431b2a-1ab0-437e-a5a1-977c319641a9.png)
