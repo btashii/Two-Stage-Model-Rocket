@@ -17,10 +17,10 @@ Software:
 
 <h1 align = "center">User Interface (this would be paired along a terminal window)</h1>
 <p align = "center">
-<img src="https://user-images.githubusercontent.com/66987198/175840764-3f92e4e6-60d1-4050-af6c-6e6edec02db5.jpg" />
+<img src="https://user-images.githubusercontent.com/66987198/175840769-7e431b2a-1ab0-437e-a5a1-977c319641a9.png" />
 </p>
 
 <h1 align = "center">OpenRocket Simulation</h1>
 <p align = "center">
-<img src="https://user-images.githubusercontent.com/66987198/175840769-7e431b2a-1ab0-437e-a5a1-977c319641a9.png" />
+<img src="https://user-images.githubusercontent.com/66987198/175840764-3f92e4e6-60d1-4050-af6c-6e6edec02db5.jpg" />
 </p>
