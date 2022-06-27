@@ -15,7 +15,7 @@ Software:
 -Simulation software "OpenRocket" was used to model trajectory path.  
 -Altitude: 1,200 feet high. 
 
-<h1 align = "center">User Interface (this would be paired along a terminal window</h1>
+<h1 align = "center">User Interface (this would be paired along a terminal window)</h1>
 <p align = "center">
 <img src="https://user-images.githubusercontent.com/66987198/175840764-3f92e4e6-60d1-4050-af6c-6e6edec02db5.jpg" />
 </p>
